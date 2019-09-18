@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Bfs</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_signup">登入</string>
+    <string name="title_activity_maincustomer">顧客菜單</string>
+    <string name="title_activity_menucustomer">餐點內容</string>
+    <string name="title_activity_mainowner">老闆菜單</string>
+    <string name="title_activity_test">Test</string>
+    <string name="title_activity_menuchange">新增餐點</string>
+    <string name="title_activity_menusearch">餐點內容</string>
+    <string name="send">送出</string>
+    <string name="customer_send">送出</string>
+    <string name="customer_refuse">拒絕</string>
+    <string name="customer_null">確認中...</string>
+    <string name="customer_accept">成功</string>
+    <string name="customer_complete">請取餐</string>
+    <string name="customer_end">結束</string>
+    <string name="host_tobecofirmed">待確認</string>
+    <string name="host_tobecompleted">待完成</string>
+    <!--訂單狀態字串-->
+    <string name="order_status_refuse">拒絕</string>
+    <string name="order_status_accept">接受</string>
+    <string name="order_status_complete">完成</string>
+    <string name="order_status_end">結束</string>
+    <string name="title_activity_testac">testac</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>

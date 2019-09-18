@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@android:color/holo_red_dark</color>
+    <color name="colorPrimaryDark">#b80000</color>
+    <color name="colorAccent">@android:color/holo_red_dark</color>
+    <color name="colorSystemBackground">#f3f3f3</color>
+    <color name="colorNoStatus">@android:color/darker_gray</color>
+    <color name="colorRefuse">#1a1a1a</color>
+    <color name="colorAccept">@android:color/holo_orange_dark</color>
+    <color name="colorComplete">@android:color/holo_green_dark</color>
+    <color name="colorList">#ffffff</color>
+    <!--<color name="colorList">#FAFAFA</color>-->
+    <color name="colorExList">#f3f3f3</color>
+    <color name="colorTextLight">#ffffff</color>
+    <color name="colorTextDark">#1a1a1a</color>
+    <color name="colorTextImportant">@android:color/holo_red_dark</color>
+</resources>
